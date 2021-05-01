@@ -1,7 +1,27 @@
 ([
 (
 source: Cargo(()),
+name: "https://github.com/curlpipe/ox",
+flags: ["--git"],
+),
+(
+source: Cargo(()),
+name: "bandwhich",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "bingrep",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "ddh",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "delta",
 flags: [],
 ),
 (
@@ -11,7 +31,107 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "dua",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "dutree",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "emplace",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "ff",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "git-delta",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "gitui",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "gstats",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "htop",
+flags: [],
+),
+(
+source: Pip(()),
+name: "icdiff",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "iota",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "kibi",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "kmon",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "lsd",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "mme",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "navi",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "neovim",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "procs",
+flags: [],
+),
+(
+source: Zypper(()),
+name: "sup",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "tealdeer",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "tmux-thumbs",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "tokei",
 flags: [],
 ),
 ])
