@@ -110,6 +110,11 @@ name: "neovim",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "pipx",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "procs",
 flags: [],
