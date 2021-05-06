@@ -120,6 +120,11 @@ name: "procs",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "sabyenc",
+flags: [],
+),
+(
 source: Zypper(()),
 name: "sup",
 flags: [],
