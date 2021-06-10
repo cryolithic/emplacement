@@ -144,4 +144,9 @@ source: Cargo(()),
 name: "tokei",
 flags: [],
 ),
+(
+source: Cargo(()),
+name: "zellij",
+flags: [],
+),
 ])
