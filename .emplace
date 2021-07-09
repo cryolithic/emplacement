@@ -70,6 +70,11 @@ name: "htop",
 flags: [],
 ),
 (
+source: Go(()),
+name: "https://github.com/ianlancetaylor/demangle.git",
+flags: [],
+),
+(
 source: Pip(()),
 name: "icdiff",
 flags: [],
