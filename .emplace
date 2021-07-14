@@ -101,6 +101,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "mdcat",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "mme",
 flags: [],
 ),
