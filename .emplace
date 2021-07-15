@@ -16,6 +16,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "broot",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "ddh",
 flags: [],
 ),
