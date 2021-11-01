@@ -60,6 +60,11 @@ name: "git-delta",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "github-archive",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "gitui",
 flags: [],
