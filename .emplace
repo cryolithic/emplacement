@@ -55,6 +55,11 @@ name: "ff",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "gh",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "git-delta",
 flags: [],
