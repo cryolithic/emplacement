@@ -21,6 +21,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "cargo-update",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "ddh",
 flags: [],
 ),
