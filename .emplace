@@ -156,6 +156,11 @@ flags: [],
 ),
 (
 source: Pip(()),
+name: "pwnlib",
+flags: [],
+),
+(
+source: Pip(()),
 name: "sabyenc",
 flags: [],
 ),
