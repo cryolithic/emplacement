@@ -75,6 +75,11 @@ name: "github-archive",
 flags: [],
 ),
 (
+source: Go(()),
+name: "github.com/tigrawap/slit/cmd/slit",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "gitui",
 flags: [],
