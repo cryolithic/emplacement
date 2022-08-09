@@ -191,6 +191,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "xplr",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "zellij",
 flags: [],
 ),
