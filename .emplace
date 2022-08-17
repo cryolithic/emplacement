@@ -190,6 +190,11 @@ name: "tokei",
 flags: [],
 ),
 (
+source: Pip(()),
+name: "wtfis",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "xplr",
 flags: [],
